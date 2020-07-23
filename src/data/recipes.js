@@ -2,7 +2,7 @@ export default
 [
     {
         "id": 0,
-        "title": "How to cook something",
+        "title": "How to cooke chicken",
         "steps": [
             {
                 "id": 0,

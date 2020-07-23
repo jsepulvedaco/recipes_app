@@ -1,5 +1,5 @@
 import React from 'react'
-import recipes from './docs/data/recipes'
+import recipes from './data/recipes'
 import Step from './components/step'
 
 export default class Recipes extends React.Component {
